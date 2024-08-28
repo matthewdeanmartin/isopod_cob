@@ -17,3 +17,4 @@ Trivial text adventure game to make a basic gnucobol build script
 - Unit test library doesn't detect tests, sample unit test fails
 - No formatter?
 - Investigate cobolsharp (Fails to install on python 3.12)
+- cobol packaging?
